@@ -1,3 +1,4 @@
+# UART Implementation using Verilog HDL
 Description:
 
 UART (Universal Asynchronous Receiver/Transmitter) is a type of communication interface used for serial communication between two devices. It converts parallel data to serial data and vice versa. The UART is commonly used to connect microcontrollers, sensors, and other devices to computers or other electronic systems.
